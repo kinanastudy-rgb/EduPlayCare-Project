@@ -1,0 +1,46 @@
+# Arquivo: /CITATION.cff
+
+cff-version: 1.2.0
+message: "Se você usar este software em sua pesquisa, por favor, cite-o usando as informações abaixo."
+title: "EduPlayCare: An Evidence-Based Developmental Screening and Support Application"
+authors:
+  - given-names: Ana Carla
+    family-names: Ortega
+  - name: "kinanastudy-rgb" # Nome de usuário do GitHub
+version: "0.1.0"
+date-released: 2024-10-26 # Use a data de hoje
+repository-code: "https://github.com/kinanastudy-rgb/EduPlayCare-Project"
+license: "MIT"
+keywords:
+  - "child development"
+  - "developmental screening"
+  - "early childhood education"
+  - "ASQ-3"
+  - "M-CHAT-R/F"
+  - "PSC-17"
+  - "SDQ"
+  - "educational technology"
+
+# Esta seção aponta para a pesquisa fundamental que valida uma parte central do software.
+preferred-citation:
+  type: article
+  authors:
+    - given-names: "Diana L."
+      family-names: "Robins"
+    - given-names: "Karis"
+      family-names: "Casagrande"
+    - given-names: "Marianne"
+      family-names: "Barton"
+    - given-names: "Chi-Ming"
+      family-names: "Chen"
+    - given-names: "Madeleine"
+      family-names: "Dumont-Mathieu"
+    - given-names: "Deborah"
+      family-names: "Fein"
+  title: "Validation of the Modified Checklist for Autism in Toddlers, Revised with Follow-up (M-CHAT-R/F)"
+  journal: "Pediatrics"
+  volume: 133
+  issue: 1
+  pages: "37-45"
+  year: 2014
+  doi: "10.1542/peds.2013-1813"
